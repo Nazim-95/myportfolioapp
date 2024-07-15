@@ -45,15 +45,17 @@ const Home = () => {
         </div>
       </div>
 
-      {/* About Section */}
-      <div className="section-container my-5">
-        <About />
-      </div>
 
       {/* Technologies Section */}
       <div className="section-container my-5" ref={technologiesRef}>
         <Technologies />
       </div>
+
+            {/* About Section */}
+            <div className="section-container my-5">
+        <About />
+      </div>
+
 
       {/* Contact Section */}
       <div className="section-container my-5">
