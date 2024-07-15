@@ -1,0 +1,26 @@
+/* Home.css */
+.jumbotron-container {
+    padding: 2rem;
+    margin-bottom: 5rem;
+    background-color: var(--bs-body-bg);
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .section-container {
+    padding: 2rem;
+    margin-bottom: 5rem;
+    background-color: var(--bs-light);
+    border-radius: 10px;
+  }
+  
+  .text-body-emphasis {
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  
+  .input-group-text {
+    background-color: var(--bs-indigo);
+    color: white;
+  }
+  

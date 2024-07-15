@@ -1,0 +1,9 @@
+.nav-item :hover  {
+    /* font-size: 120%; */
+    background: gray; 
+    border-radius: 10px;
+
+}
+.nav-item {
+    padding:10px;
+}
